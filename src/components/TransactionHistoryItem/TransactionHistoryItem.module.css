@@ -1,0 +1,17 @@
+.text {
+  text-align: center;
+
+  font-size: 18px;
+}
+
+.textType {
+  text-align: left;
+  padding-left: 62px;
+  padding-right: 0;
+  width: 34%;
+  text-transform: capitalize;
+}
+
+.box:nth-child(2n) {
+  background-color: rgb(194, 194, 194);
+}
